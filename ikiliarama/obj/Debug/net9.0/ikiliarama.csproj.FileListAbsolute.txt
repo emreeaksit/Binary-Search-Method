@@ -1,0 +1,14 @@
+C:\Users\asusgaming\OneDrive\Masaüstü\ikiliarama\bin\Debug\net9.0\ikiliarama.exe
+C:\Users\asusgaming\OneDrive\Masaüstü\ikiliarama\bin\Debug\net9.0\ikiliarama.deps.json
+C:\Users\asusgaming\OneDrive\Masaüstü\ikiliarama\bin\Debug\net9.0\ikiliarama.runtimeconfig.json
+C:\Users\asusgaming\OneDrive\Masaüstü\ikiliarama\bin\Debug\net9.0\ikiliarama.dll
+C:\Users\asusgaming\OneDrive\Masaüstü\ikiliarama\bin\Debug\net9.0\ikiliarama.pdb
+C:\Users\asusgaming\OneDrive\Masaüstü\ikiliarama\obj\Debug\net9.0\ikiliarama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asusgaming\OneDrive\Masaüstü\ikiliarama\obj\Debug\net9.0\ikiliarama.AssemblyInfoInputs.cache
+C:\Users\asusgaming\OneDrive\Masaüstü\ikiliarama\obj\Debug\net9.0\ikiliarama.AssemblyInfo.cs
+C:\Users\asusgaming\OneDrive\Masaüstü\ikiliarama\obj\Debug\net9.0\ikiliarama.csproj.CoreCompileInputs.cache
+C:\Users\asusgaming\OneDrive\Masaüstü\ikiliarama\obj\Debug\net9.0\ikiliarama.dll
+C:\Users\asusgaming\OneDrive\Masaüstü\ikiliarama\obj\Debug\net9.0\refint\ikiliarama.dll
+C:\Users\asusgaming\OneDrive\Masaüstü\ikiliarama\obj\Debug\net9.0\ikiliarama.pdb
+C:\Users\asusgaming\OneDrive\Masaüstü\ikiliarama\obj\Debug\net9.0\ikiliarama.genruntimeconfig.cache
+C:\Users\asusgaming\OneDrive\Masaüstü\ikiliarama\obj\Debug\net9.0\ref\ikiliarama.dll
